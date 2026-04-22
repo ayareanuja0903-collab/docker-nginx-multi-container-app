@@ -1,4 +1,4 @@
-🚀 Docker Nginx Multi-Container Application
+<h3>🚀 Docker Nginx Multi-Container Application</h3>
 
 A production-style multi-container DevOps project demonstrating Docker networking and Nginx reverse proxy routing.
 
@@ -62,7 +62,7 @@ docker-nginx-multi-container-app/
 1️⃣ Clone Repository
 
 ```bash
-git clone https://github.com/your-username/docker-nginx-multi-container-app.git
+git clone https://github.com/ayareanuja0903-collab/docker-nginx-multi-container-app.git
 cd docker-nginx-multi-container-app
 ```
 
