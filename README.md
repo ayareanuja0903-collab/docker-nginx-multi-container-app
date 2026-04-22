@@ -99,10 +99,11 @@ http://localhost:8080/app2/
 ```
 
 💡 Key Learnings<br/>
-Docker multi-container architecture<br/>
-Nginx reverse proxy routing<br/>
-Docker networking & service communication<br/>
-Debugging real-world DevOps issues<br/>
+
+* Docker multi-container architecture<br/>
+* Nginx reverse proxy routing<br/>
+* Docker networking & service communication<br/>
+* Debugging real-world DevOps issues<br/>
 
 
 
