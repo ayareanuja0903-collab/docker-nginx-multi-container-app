@@ -83,10 +83,18 @@ http://localhost:8080/app1/
 http://localhost:8080/app2/
 
 ```
+---
 
-📸 Output<br/>
+## 📸 Output<br/>
+
 /app1/ → Node.js response<br/>
+<img width="800" height="400" src="https://github.com/user-attachments/assets/8616111d-9ff5-48fe-8e9b-6deca8c57c04" />
+---
+
 /app2/ → Static HTML page<br/>
+
+<img width="800" height="400" src="https://github.com/user-attachments/assets/f86c2254-edc5-4935-8f84-77351c03002e" />
+---
 
 🚧 Challenges & Solutions
 ```bash
